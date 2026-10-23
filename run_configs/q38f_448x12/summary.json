@@ -1,0 +1,10 @@
+{
+ "tokens_trained": 773849088,
+ "train_flops": 2.9996162455751885e+17,
+ "active_nonvocab": 37028812,
+ "total_nonvocab": 490419148,
+ "ngram_params": 200933376,
+ "mtp_params": 41120740,
+ "elapsed_s": 45604.6413359642,
+ "world": 1
+}
